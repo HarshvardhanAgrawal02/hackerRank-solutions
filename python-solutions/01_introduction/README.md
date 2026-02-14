@@ -14,4 +14,4 @@ Basic Python problems to get started with HackerRank.
 
 ---
 
-**Progress:** 0/7 solved
+**Progress:** 1/7 solved

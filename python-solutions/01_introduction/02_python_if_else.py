@@ -1,4 +1,4 @@
-# Problem: Say "Hello, World!" With Python
+# Problem: Python If-Else
 # Difficulty: Easy
 #Link: https://www.hackerrank.com/challenges/py-if-else/problem
 

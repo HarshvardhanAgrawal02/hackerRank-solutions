@@ -12,7 +12,7 @@ Python solutions for HackerRank's practice problems. Working through 17 domains 
 
 | # | Domain | Solved | Total | Difficulty |
 |---|--------|--------|-------|-----------|
-| 01 | [Introduction](./01_introduction/) | 1 | 7 | Easy |
+| 01 | [Introduction](./01_introduction/) | 3 | 7 | Easy |
 | 02 | [Basic Data Types](./02_basic_data_types/) | 0 | 6 | Easy - Medium |
 | 03 | [Strings](./03_strings/) | 0 | 14 | Easy - Medium |
 | 04 | [Sets](./04_sets/) | 0 | 13 | Easy - Medium |
